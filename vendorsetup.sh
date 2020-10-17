@@ -1,0 +1,4 @@
+add_lunch_combo mk_hwgemini-eng
+add_lunch_combo mk_hwgemini-userdebug
+add_lunch_combo mk_hwgemini-user
+
