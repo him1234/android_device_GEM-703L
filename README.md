@@ -1,4 +1,4 @@
-@Copyright 2018 - The LineageOS Project
+@Copyright 2020 
 
-Honor 7 device tree for LineageOS 13
+HUAWEI MediaPad X2 device tree for Mooke 60.1
 WIP
